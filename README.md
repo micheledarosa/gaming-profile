@@ -10,7 +10,7 @@ Projeto de uma página pessoal desenvolvida para compartilhar informações sobr
 - animações
 - efeitos
 
-## [Deploy 🌠]()
+## [Deploy 🌠](https://misha-gamingprofile.netlify.app/)
 ![Imgur](https://i.imgur.com/VGSoc1o.png)
 
 ## Tecnologias e ferramentas 🛠️
