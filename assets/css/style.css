@@ -13,7 +13,7 @@ body * {
     line-height: 160%;
 }
 
-body, *:hover { 
+body, *, a:hover { 
     cursor:url(../Images/cursor.cur), auto; 
 }
 
